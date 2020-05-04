@@ -1,6 +1,6 @@
 <?php
 
-namespace Paulwscom\Lazada;
+namespace Lazada;
 use Exception;
 
 class LazopClient

@@ -6,4 +6,4 @@ This PHP SDK is available to download at https://open.lazada.com
 
 Via Composer
 
-`composer require paulwscom/lazada-php-sdk`
+`composer require vq-is-team/lazada-php-sdk`

@@ -1,27 +1,32 @@
 {
-    "name": "paulwscom/lazada-php-sdk",
+    "name": "vq-is-team/lazada-php-sdk",
     "description": "A Lazada PHP SDK for Laravel",
     "keywords": [
         "lazada",
         "laravel"
     ],
-    "homepage": "https://github.com/paulwscom/lazada-php-sdk",
+    "homepage": "https://github.com/vq-is-team/lazada-php-sdk",
     "license": "MIT",
     "authors": [
         {
-            "name": "Paul Mikki Escorido",
-            "email": "paulwscom@gmail.com",
-            "homepage": "https://www.paulws.com",
+            "name": "Viewqwest IS Team",
+            "email": "is@viewqwest.com",
+            "homepage": "https://www.viewqwest.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Jan Koichi Dayanan",
+            "email": "jan.dayanan@viewqwest.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": "^7.2",
-        "laravel/framework": "^6.0"
+        "laravel/framework": "^7.0"
     },
     "autoload": {
         "psr-4": {
-            "Paulwscom\\Lazada\\": "src"
+            "Lazada\\": "src"
         }
     }
 }

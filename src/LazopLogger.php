@@ -1,6 +1,6 @@
 <?php
 
-namespace Paulwscom\Lazada;
+namespace Lazada;
 
 use Illuminate\Support\Facades\Log;
 
